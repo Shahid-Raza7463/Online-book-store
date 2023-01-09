@@ -1,0 +1,49 @@
+.container-body {
+  width: 1076px;
+  height: 510px;
+  display: flex;
+  position: fixed;
+}
+.container {
+  height: 473px;
+  width: 214px;
+}
+/* .img-container {
+  height: 233px;
+  width: 214px;
+} */
+.img-container {
+  height: 233px;
+  width: 214px;
+  border: 2px black solid;
+}
+.detail {
+  margin-left: 10px;
+}
+.text {
+  margin: 11px;
+  padding: 0px;
+  font-size: 20px;
+}
+h3 {
+  font-size: 24px;
+}
+#addbutton {
+  height: 38px;
+  width: 184px;
+  background-color: rgb(67 78 151);
+  color: white;
+  font-weight: bold;
+}
+#buybutton {
+  height: 38px;
+  width: 184px;
+  margin-left: 33px;
+  background-color: rgb(67 78 151);
+  color: white;
+  font-weight: bold;
+}
+img {
+  height: 233px;
+  width: 214px;
+}
