@@ -1,5 +1,3 @@
 *.log
-demo/
+documentation/
 *.java
-hu.png
-.md
